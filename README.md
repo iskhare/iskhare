@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iskhare
+- 👋 Hi, I’m Ishan Khare!
 
 - 🎓 M.S. student in Computer Science (AI) at Stanford, recently finished my B.S.
 

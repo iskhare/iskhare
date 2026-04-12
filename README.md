@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ishan Khare!
-- 🎓 M.S. student in Computer Science (AI) at Stanford, recently finished my B.S.
+- 🎓 M.S. student in Computer Science (AI) at Stanford, also did my B.S there.
 - 🔬 I do research with the Hazy Research Lab on multimodal models and LLMs.
 - 🤝 Open to collaborations in research and applied ML.
 - 🌐 Website: [iskhare.github.io](https://iskhare.github.io/).
